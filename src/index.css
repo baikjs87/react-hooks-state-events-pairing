@@ -10,3 +10,17 @@ body {
 .App {
   text-align: center;
 }
+
+.hideComponents {
+  padding: 12px;
+  border: 0;
+  border-bottom: 1px solid black;
+}
+
+.hide {
+  display: none;
+}
+
+.show {
+  display: inline;
+}
